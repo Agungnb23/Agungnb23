@@ -4,6 +4,6 @@ Sela Pebriana (D112111012)
 Puput Amelia Effendi (D112111011)
 Website untuk menyewakan mobil dengan fitur:
 -> pencarian
--> reservasida
+-> reservasi
 -> pembayaran online.
 
